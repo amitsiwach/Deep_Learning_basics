@@ -1,2 +1,3 @@
-# MNIST_dataset_classification_using_ANN
-This repository contains the MNIST dataset classification using ANN.
+# Deep Learning projects
+
+This repository contains various Deep Learning projects e.g., the MNIST dataset classification using ANN.
