@@ -7,3 +7,6 @@ This repository contains various Deep Learning projects e.g.,:
   4. Tranfer Learning use case
   5. Implementation of ANN model for classification using Numpy library (without using Keras). Then, compared the model's performance with ANN model implemented using Keras library.
   6. Regression_example_using_ANN
+  7. Batch Normalisation example using both approaches.
+      a) Batch Normalization AFTER between Layers respective Activation Functions
+      b) Batch Normalization IN between Layers & their respective Activation Function (with No Bias)
