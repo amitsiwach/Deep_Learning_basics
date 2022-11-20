@@ -10,4 +10,4 @@ This repository contains various Deep Learning projects e.g.,:
   7. Batch Normalisation example using both approaches.
       a) Batch Normalization AFTER between Layers respective Activation Functions
       b) Batch Normalization IN between Layers & their respective Activation Function (with No Bias)
-  8. Regularization techniques and Loss functions
+  8. Regularization techniques and type pf Loss functions
