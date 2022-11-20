@@ -11,3 +11,4 @@ This repository contains various Deep Learning projects e.g.,:
       a) Batch Normalization AFTER between Layers respective Activation Functions
       b) Batch Normalization IN between Layers & their respective Activation Function (with No Bias)
   8. Regularization techniques and type pf Loss functions
+  9. Different types of Optimizers
